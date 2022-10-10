@@ -1,0 +1,24 @@
+{
+  "name": "Adam Kaufman",
+  "website": "https://github.com/akauf13",
+  "linkedin": "https://www.linkedin.com/in/adam-kaufman-596696159/",
+  "github": "akauf13",
+  "email": "adammkaufman10@gmail.com",
+  "resume": "https://docs.google.com/document/d/1IcvOg63epAIv64ZH9d4iJx2QyzKhrcvUYSIV_ok7eYE/edit?usp=sharing",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "CSS",
+      "HTML"
+  ],
+  "otherSkills": [
+      "Microsoft Office",
+      "Being sleepy",
+      "Observing the moving pictures on the screen in times of leisure"
+  ]
+}
